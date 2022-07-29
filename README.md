@@ -6,7 +6,7 @@ To automate the creation of joint savings accounts, I created a Solidity smart c
 
 The repo contains:
 
-(1) The completed Solidity `JointSavings` smart contract. See the file `joint_savings.sol` to review the code.
+(1) The completed Solidity `JointSavings` smart contract. See the file `joint_savings_final.sol` to review the code.
 
 (2) Images that confirm that the deposit and withdrawal transactions, which are designed to test the `JointSavings` functionality in the Remix VM.
 
